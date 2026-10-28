@@ -1,6 +1,0 @@
-# Release Keystore Configuration Template
-# Copy this file to build/flutter/android/key.properties (or root Project key.properties) and fill in your values.
-storePassword=your_keystore_password
-keyPassword=your_key_password
-keyAlias=your_key_alias
-storeFile=C:/path/to/your/upload-keystore.jks
