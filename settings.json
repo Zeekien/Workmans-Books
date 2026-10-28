@@ -1,0 +1,9 @@
+{
+    "work_types": {
+        "General Maintenance": [],
+        "Weeding": [
+            "Invasive"
+        ],
+        "Pruning": []
+    }
+}
